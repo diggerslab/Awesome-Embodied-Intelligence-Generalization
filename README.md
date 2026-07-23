@@ -10,7 +10,7 @@
 **English** | [中文](README_ZH.md)
 
 <p align="center">
-  <img src="assets/awesome-embodied-generalization-icon-v3.png" alt="Awesome Embodied Intelligence Generalization project icon" width="760">
+  <img src="assets/awesome-embodied-generalization-banner-labeled.png" alt="Awesome Embodied Intelligence Generalization project icon" width="760">
 </p>
 
 Generalization is a central question for embodied intelligence. A robot that works only in a fixed scene, with fixed objects, fixed language, and fixed hardware is still far from reliable deployment. Real systems must handle new objects, environments, instructions, tasks, dynamics, embodiments, and the gap between simulation and the physical world.
