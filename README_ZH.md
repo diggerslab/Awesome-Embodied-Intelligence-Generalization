@@ -10,7 +10,7 @@
 [English](README.md) | **中文**
 
 <p align="center">
-  <img src="assets/awesome-embodied-generalization-icon-v3.png" alt="Awesome Embodied Intelligence Generalization project icon" width="760">
+  <img src="assets/awesome-embodied-generalization-banner-labeled.png" alt="Awesome Embodied Intelligence Generalization project icon" width="760">
 </p>
 
 泛化性是具身智能走向真实部署时绕不开的问题。一个机器人如果只能在固定场景、固定物体、固定指令和固定本体上工作，还不能被认为具备可靠的通用能力。真实系统需要面对新的对象、环境、语言、任务、物理条件、机器人本体，以及仿真到真实世界之间的差异。
